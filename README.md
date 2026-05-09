@@ -213,8 +213,8 @@ steepest-descent-projection-method/
 │       └── PresentationOfSteepestDescentMethodExecutionResults.m
 │
 ├── docs/                                           # Statement & Report
-│   ├── lab02.pdf
-│   └── report_lab02.pdf
+│   ├── lab03.pdf
+│   └── report_lab03.pdf
 │
 ├── README.md
 └── .gitignore
